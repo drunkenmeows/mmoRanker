@@ -1,0 +1,6 @@
+name: MmoRanker
+main: me.drunkenmeows.mmoranker.MmoRanker
+softdepend: [Vault, Mcmmo]
+version: '1.00'
+author: drunkenmeows
+description: 'Automatically ranks players based on thier powerlevel'
